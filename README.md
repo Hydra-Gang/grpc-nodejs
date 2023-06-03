@@ -1,1 +1,0 @@
-This repository is about GRPC educational purposes.
